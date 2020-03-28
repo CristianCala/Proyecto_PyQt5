@@ -1,3 +1,7 @@
+#POR FIN NOJODASSSSS!!!!
+
+
+
 import sys, re
 from PyQt5.QtWidgets import QApplication, QDialog, QMessageBox
 from PyQt5 import uic
